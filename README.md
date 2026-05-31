@@ -4,7 +4,7 @@
 
 > *"I write code, break things, fix them, then write better code."*
 
-Passionate frontend developer and Computer System Engineering student at Carleton University — though my stack doesn't stop at the browser. I love building things that *look* good and *work* well: polished UIs, ML experiments, cloud deployments, the whole pipeline. If it ships, it counts.
+Passionate frontend developer and Computer Science student at Carleton University — though my stack doesn't stop at the browser. I love building things that *look* good and *work* well: polished UIs, ML experiments, cloud deployments, the whole pipeline. If it ships, it counts.
 
 When I'm not pushing commits, I'm probably deep in a rabbit hole — whether that's fine-tuning a model, architecting something on AWS, or redesigning a component for the fifth time because *almost perfect isn't good enough*.
 
@@ -50,6 +50,7 @@ When I'm not pushing commits, I'm probably deep in a rabbit hole — whether tha
 |:---:|:---:|
 | ![Streak](https://streak-stats.demolab.com/?user=ubp-as&theme=dracula&mode=weekly&hide_border=true) | ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ubp-as&theme=dracula&utcOffset=5.5) |
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ubp-as&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
