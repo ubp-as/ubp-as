@@ -50,7 +50,6 @@ When I'm not pushing commits, I'm probably deep in a rabbit hole — whether tha
 |:---:|:---:|
 | ![Streak](https://streak-stats.demolab.com/?user=ubp-as&theme=dracula&mode=weekly&hide_border=true) | ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ubp-as&theme=dracula&utcOffset=5.5) |
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ubp-as&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
