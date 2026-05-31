@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=200&section=header&text=Abdullah%20Salman&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Dev%20%7C%20ML%20Tinkerer%20%7C%20Builder%20of%20Things&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=200&section=header&text=Abdullah%20Salman&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20System%20%7C%20Engineering%20Students&descAlignY=55&descAlign=50)
 
 # Hey, I'm Abdullah Salman 👋
 
