@@ -44,7 +44,7 @@ When I'm not pushing commits, I'm probably deep in a rabbit hole — whether tha
 
 | GitHub Stats | Most Used Languages |
 |:---:|:---:|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=ubp-as&show_icons=true&theme=dracula&hide_border=true) | ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ubp-as&theme=dracula) |
+| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ubp-as&theme=dracula) | ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ubp-as&theme=dracula) |
 
 | GitHub Streak | Commit Activity |
 |:---:|:---:|
