@@ -4,7 +4,7 @@
 
 > *"I write code, break things, fix them, then write better code."*
 
-Passionate frontend developer from India 🇮🇳 — though my stack doesn't stop at the browser. I love building things that *look* good and *work* well: polished UIs, ML experiments, cloud deployments, the whole pipeline. If it ships, it counts.
+Passionate frontend developer and Computer Science student at Carleton University — though my stack doesn't stop at the browser. I love building things that *look* good and *work* well: polished UIs, ML experiments, cloud deployments, the whole pipeline. If it ships, it counts.
 
 When I'm not pushing commits, I'm probably deep in a rabbit hole — whether that's fine-tuning a model, architecting something on AWS, or redesigning a component for the fifth time because *almost perfect isn't good enough*.
 
